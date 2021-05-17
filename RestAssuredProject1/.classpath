@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/artifacts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/content.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/com.beust.jcommander.source_1.78.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/com.beust.jcommander_1.78.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/com.google.guava_21.0.0.v20170206-1425.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.testng.eclipse.maven_7.4.0.202105021622.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.testng.eclipse_7.4.0.202105021622.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.testng_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.webjars.jquery.source_3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.webjars.jquery_3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.yaml.snakeyaml.source_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/plugins/org.yaml.snakeyaml_1.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/features/org.testng.eclipse.maven.feature_7.4.0.202105021622.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/features/org.testng.eclipse_7.4.0.202105021622.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak/Desktop/RestApiJars/features/org.testng.p2.feature_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
